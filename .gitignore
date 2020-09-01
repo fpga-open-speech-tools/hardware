@@ -3,3 +3,7 @@
 *.HarnessPreview
 *.Zip
 *.SchDotPreview
+*.stl
+*.lck
+**/OldVersions
+*.ipj
