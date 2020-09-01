@@ -7,3 +7,6 @@
 *.lck
 **/OldVersions
 *.ipj
+**/History
+**/__Previews
+**/Project Outputs*
