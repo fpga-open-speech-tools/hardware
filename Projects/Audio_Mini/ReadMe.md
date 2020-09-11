@@ -1,4 +1,4 @@
-# Audio Mini
+# [Audio Mini](https://fpga-open-speech-tools.github.io/audio_mini.html)
 The Audio Mini is a low cost audio daughter card that provides Line In and Headphone Out to the Cyclone V FPGA on the Terasic DE10-Nano. The PCB Folder contains the Altium Design Files.
 
 ## Documentation
