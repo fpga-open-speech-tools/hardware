@@ -1,4 +1,4 @@
-# [Open Speech Tools Hardware Designs](https://fpga-open-speech-tools.github.io/hardware.html)
+# [Open Speech Tools: Hardware Designs](https://fpga-open-speech-tools.github.io/hardware.html)
 This repository contains the hardware designs including Altium Design Files and Housing Design Files for the Audio Mini, Audio Research, and Microphone Array.
 
 ## Folder Structure
