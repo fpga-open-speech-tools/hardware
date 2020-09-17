@@ -668,14 +668,22 @@ DocumentUniqueId=
 
 [ProjectVariant1]
 UniqueID=C5ABBF9D-A720-4B5C-967A-43CB4E9648D1
-Description=Audio_Research_Build
+Description=BUILD
 AllowFabrication=0
-ParameterCount=0
+ParameterCount=2
 VariationCount=3
-Variation1=Designator=C25|UniqueId=\LEWSBFIY\ONFVAMPI|Kind=1|AlternatePart= 
-Variation2=Designator=C26|UniqueId=\LEWSBFIY\NSTMPBJR|Kind=1|AlternatePart= 
-Variation3=Designator=J1|UniqueId=\LDTVLECK\KYUSMTGO\VNPMLMUB|Kind=1|AlternatePart= 
+Variation1=Designator=C25|UniqueId=\CEINWWTW\LEWSBFIY\ONFVAMPI|Kind=1|AlternatePart= 
+Variation2=Designator=C26|UniqueId=\CEINWWTW\LEWSBFIY\NSTMPBJR|Kind=1|AlternatePart= 
+Variation3=Designator=J1|UniqueId=\CEINWWTW\LDTVLECK\KYUSMTGO\VNPMLMUB|Kind=1|AlternatePart= 
 ParamVariationCount=0
+
+[Parameter2_1]
+Name=Variant_Name
+Value=Audio Research
+
+[Parameter2_2]
+Name=Variant_Revision
+Value=1P2
 
 [Configuration1]
 Name=Default Configuration
