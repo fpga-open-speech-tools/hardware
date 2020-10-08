@@ -18,7 +18,7 @@ RevisionNamingSchemeGUID=
 Name=AudioLogic_MFG.OutJob
 Description=
 TargetOutputMedium=PCBA Documentation
-VariantName=Audio_Mini
+VariantName=BUILD
 VariantScope=1
 CurrentConfigurationName=
 TargetPrinter=Virtual Printer
@@ -68,7 +68,7 @@ Configuration1_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowPr
 OutputType2=Gerber
 OutputName2=Gerber Files
 OutputCategory2=Fabrication
-OutputDocumentPath2=Audio_Mini.PcbDoc
+OutputDocumentPath2=Audio_Research.PcbDoc
 OutputVariantName2=
 OutputEnabled2=0
 OutputEnabled2_OutputMedium1=0
@@ -87,7 +87,7 @@ Configuration2_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayer
 OutputType3=NC Drill
 OutputName3=NC Drill Files
 OutputCategory3=Fabrication
-OutputDocumentPath3=Audio_Mini.PcbDoc
+OutputDocumentPath3=Audio_Research.PcbDoc
 OutputVariantName3=
 OutputEnabled3=0
 OutputEnabled3_OutputMedium1=0
@@ -106,7 +106,7 @@ Configuration3_Item1=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|Ge
 OutputType4=ODB
 OutputName4=ODB++ Files
 OutputCategory4=Fabrication
-OutputDocumentPath4=Audio_Mini.PcbDoc
+OutputDocumentPath4=Audio_Research.PcbDoc
 OutputVariantName4=
 OutputEnabled4=0
 OutputEnabled4_OutputMedium1=0
@@ -125,7 +125,7 @@ Configuration4_Item1=AddToAllLayerClasses.Set= |AddToAllPlots_BoardOutline=False
 OutputType5=IPC2581
 OutputName5=IPC-2581 Files
 OutputCategory5=Fabrication
-OutputDocumentPath5=Audio_Mini.PcbDoc
+OutputDocumentPath5=Audio_Research.PcbDoc
 OutputVariantName5=
 OutputEnabled5=0
 OutputEnabled5_OutputMedium1=0
@@ -144,7 +144,7 @@ Configuration5_Item1=Record=IPC2581View|IPC2581Version=B|MeasurementSystem=Metri
 OutputType6=Pick Place
 OutputName6=Generates pick and place files
 OutputCategory6=Assembly
-OutputDocumentPath6=Audio_Mini.PcbDoc
+OutputDocumentPath6=Audio_Research.PcbDoc
 OutputVariantName6=
 OutputEnabled6=0
 OutputEnabled6_OutputMedium1=0
@@ -199,7 +199,7 @@ Configuration7_Item9=Line #=100|Comment=100|Description=100|Designator=100|Manuf
 OutputType8=Assembly
 OutputName8=Assembly Drawings
 OutputCategory8=Assembly
-OutputDocumentPath8=Audio_Mini.PcbDoc
+OutputDocumentPath8=Audio_Research.PcbDoc
 OutputVariantName8=
 OutputEnabled8=0
 OutputEnabled8_OutputMedium1=0
@@ -244,7 +244,7 @@ PcbPrintPreferences8=SubsititueFont_Default=True|SubsititueFont_Serif=True|Subsi
 OutputType9=ExportSTEP
 OutputName9=Export STEP
 OutputCategory9=Export
-OutputDocumentPath9=Audio_Mini.PcbDoc
+OutputDocumentPath9=Audio_Research.PcbDoc
 OutputVariantName9=
 OutputEnabled9=0
 OutputEnabled9_OutputMedium1=0
@@ -263,7 +263,7 @@ Configuration9_Item1=Record=ExportSTEPView|ExportComponentOptions=0|ExportModels
 OutputType10=AutoCAD dwg/dxf PCB
 OutputName10=AutoCAD dwg/dxf File PCB
 OutputCategory10=Export
-OutputDocumentPath10=Audio_Mini.PcbDoc
+OutputDocumentPath10=Audio_Research.PcbDoc
 OutputVariantName10=
 OutputEnabled10=0
 OutputEnabled10_OutputMedium1=0
@@ -282,7 +282,7 @@ Configuration10_Item1=Record=ExportDXFView|ACadVersion=60|UseRoundedTracks=True|
 OutputType11=Gerber X2
 OutputName11=Gerber X2 Files
 OutputCategory11=Fabrication
-OutputDocumentPath11=Audio_Mini.PcbDoc
+OutputDocumentPath11=Audio_Research.PcbDoc
 OutputVariantName11=
 OutputEnabled11=0
 OutputEnabled11_OutputMedium1=0
@@ -301,7 +301,7 @@ Configuration11_Item1=FileComment= |FileSubject=Autodetect|GenerateDRCRulesFile=
 OutputType12=Assembly
 OutputName12=Dimensions
 OutputCategory12=Assembly
-OutputDocumentPath12=Audio_Mini.PcbDoc
+OutputDocumentPath12=Audio_Research.PcbDoc
 OutputVariantName12=
 OutputEnabled12=0
 OutputEnabled12_OutputMedium1=0
@@ -330,7 +330,7 @@ PcbPrintPreferences12=
 OutputType13=Assembly
 OutputName13=Board Stack
 OutputCategory13=Assembly
-OutputDocumentPath13=Audio_Mini.PcbDoc
+OutputDocumentPath13=Audio_Research.PcbDoc
 OutputVariantName13=
 OutputEnabled13=0
 OutputEnabled13_OutputMedium1=0
@@ -355,7 +355,7 @@ PcbPrintPreferences13=
 OutputType14=Assembly
 OutputName14=Copper
 OutputCategory14=Assembly
-OutputDocumentPath14=Audio_Mini.PcbDoc
+OutputDocumentPath14=Audio_Research.PcbDoc
 OutputVariantName14=
 OutputEnabled14=0
 OutputEnabled14_OutputMedium1=0
@@ -408,7 +408,7 @@ PcbPrintPreferences14=SubsititueFont_Default=True|SubsititueFont_Serif=True|Subs
 OutputType15=Drill
 OutputName15=Drill Drawing_Guides
 OutputCategory15=Fabrication
-OutputDocumentPath15=Audio_Mini.PcbDoc
+OutputDocumentPath15=Audio_Research.PcbDoc
 OutputVariantName15=
 OutputEnabled15=0
 OutputEnabled15_OutputMedium1=0
@@ -435,7 +435,7 @@ PcbPrintPreferences15=
 OutputType16=PCB 3D Print
 OutputName16=PCB 3D Top
 OutputCategory16=Documentation
-OutputDocumentPath16=Audio_Mini.PcbDoc
+OutputDocumentPath16=Audio_Research.PcbDoc
 OutputVariantName16=
 OutputEnabled16=1
 OutputEnabled16_OutputMedium1=0
@@ -455,7 +455,7 @@ Configuration16_Item1=Record=Pcb3DPrintView|ResX=150|ResY=150|ViewX=35000000|Vie
 OutputType17=PCB 3D Print
 OutputName17=PCB 3D Bottom
 OutputCategory17=Documentation
-OutputDocumentPath17=Audio_Mini.PcbDoc
+OutputDocumentPath17=Audio_Research.PcbDoc
 OutputVariantName17=
 OutputEnabled17=1
 OutputEnabled17_OutputMedium1=0
@@ -475,7 +475,7 @@ Configuration17_Item1=Record=Pcb3DPrintView|ResX=150|ResY=150|ViewX=35000000|Vie
 OutputType18=PCBDrawing
 OutputName18=Draftsman
 OutputCategory18=Documentation
-OutputDocumentPath18=Audio_Mini.PCBDwf
+OutputDocumentPath18=Audio_Research.PCBDwf
 OutputVariantName18=
 OutputEnabled18=1
 OutputEnabled18_OutputMedium1=0
@@ -494,7 +494,7 @@ PageOptions18=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [PublishSettings]
 OutputFilePath2=C:\Users\conno\Documents\Clients\flatearth\NIH\GitHub\hardware\Projects\AB_Mic_Array\PCB\Project Outputs for Audio_Blade_Mic_Array\Variant_Name Variant_Revision\Variant_Name Variant_Revision Schematic.PDF
 ReleaseManaged2=1
-OutputBasePath2=Project Outputs for Audio_Mini
+OutputBasePath2=Project Outputs for Audio_Research
 OutputPathMedia2==Variant_Name+' '+Variant_Revision
 OutputPathMediaValue2==Variant_Name+' '+Variant_Revision
 OutputPathOutputer2=[Output Type]
@@ -521,7 +521,7 @@ PDFACompliance2=Disabled
 PDFVersion2=Default
 OutputFilePath3=C:\Users\conno\Documents\Clients\flatearth\NIH\GitHub\hardware\Projects\AB_Mic_Array\PCB\Project Outputs for Audio_Blade_Mic_Array\Variant_Name Variant_Revision\Variant_Name Variant_Revision PCBA Documentation.PDF
 ReleaseManaged3=1
-OutputBasePath3=Project Outputs for Audio_Mini
+OutputBasePath3=Project Outputs for Audio_Research
 OutputPathMedia3==Variant_Name+' '+Variant_Revision
 OutputPathMediaValue3==Variant_Name+' '+Variant_Revision
 OutputPathOutputer3=[Output Type]
@@ -548,7 +548,7 @@ PDFACompliance3=Disabled
 PDFVersion3=Default
 OutputFilePath4=C:\Users\conno\Documents\Clients\flatearth\NIH\GitHub\hardware\Projects\AB_Mic_Array\PCB\Project Outputs for Audio_Blade_Mic_Array\Variant_Name Variant_Revision\
 ReleaseManaged4=1
-OutputBasePath4=Project Outputs for Audio_Mini
+OutputBasePath4=Project Outputs for Audio_Research
 OutputPathMedia4==Variant_Name+' '+Variant_Revision
 OutputPathMediaValue4==Variant_Name+' '+Variant_Revision
 OutputPathOutputer4=[Output Type]
@@ -575,7 +575,7 @@ PDFACompliance4=Disabled
 PDFVersion4=Default
 OutputFilePath5=C:\Users\conno\Documents\Clients\flatearth\NIH\GitHub\hardware\Projects\AB_Mic_Array\PCB\Project Outputs for Audio_Blade_Mic_Array\Variant_Name Variant_Revision\
 ReleaseManaged5=1
-OutputBasePath5=Project Outputs for Audio_Mini
+OutputBasePath5=Project Outputs for Audio_Research
 OutputPathMedia5==Variant_Name+' '+Variant_Revision
 OutputPathMediaValue5==Variant_Name+' '+Variant_Revision
 OutputPathOutputer5=[Output Type]
@@ -588,7 +588,7 @@ OutputFileNameSpecial5=
 OpenOutput5=0
 OutputFilePath6=C:\Users\conno\Documents\Clients\flatearth\NIH\GitHub\hardware\Projects\AB_Mic_Array\PCB\Project Outputs for Audio_Blade_Mic_Array\Variant_Name Variant_Revision\
 ReleaseManaged6=1
-OutputBasePath6=Project Outputs for Audio_Mini
+OutputBasePath6=Project Outputs for Audio_Research
 OutputPathMedia6==Variant_Name+' '+Variant_Revision
 OutputPathMediaValue6==Variant_Name+' '+Variant_Revision
 OutputPathOutputer6=[Output Type]
@@ -601,7 +601,7 @@ OutputFileNameSpecial6=
 OpenOutput6=0
 OutputFilePath7=C:\Users\conno\Documents\Clients\flatearth\NIH\GitHub\hardware\Projects\AB_Mic_Array\PCB\Project Outputs for Audio_Blade_Mic_Array\Variant_Name Variant_Revision\
 ReleaseManaged7=1
-OutputBasePath7=Project Outputs for Audio_Mini
+OutputBasePath7=Project Outputs for Audio_Research
 OutputPathMedia7==Variant_Name+' '+Variant_Revision
 OutputPathMediaValue7==Variant_Name+' '+Variant_Revision
 OutputPathOutputer7=[Output Custom]
@@ -628,7 +628,7 @@ PDFACompliance7=Disabled
 PDFVersion7=Default
 OutputFilePath8=C:\Users\conno\Documents\Clients\flatearth\NIH\GitHub\hardware\Projects\AB_Mic_Array\PCB\Project Outputs for Audio_Blade_Mic_Array\Variant_Name Variant_Revision\
 ReleaseManaged8=1
-OutputBasePath8=Project Outputs for Audio_Mini
+OutputBasePath8=Project Outputs for Audio_Research
 OutputPathMedia8==Variant_Name+' '+Variant_Revision
 OutputPathMediaValue8==Variant_Name+' '+Variant_Revision
 OutputPathOutputer8=[Output Type]
@@ -655,7 +655,7 @@ PDFACompliance8=Disabled
 PDFVersion8=Default
 OutputFilePath9=C:\Users\conno\Documents\Clients\flatearth\NIH\GitHub\hardware\Projects\AB_Mic_Array\PCB\Project Outputs for Audio_Blade_Mic_Array\Variant_Name Variant_Revision\Variant_Name Variant_Revision PCB Documentation.PDF
 ReleaseManaged9=1
-OutputBasePath9=Project Outputs for Audio_Mini
+OutputBasePath9=Project Outputs for Audio_Research
 OutputPathMedia9==Variant_Name+' '+Variant_Revision
 OutputPathMediaValue9==Variant_Name+' '+Variant_Revision
 OutputPathOutputer9=[Output Type]
@@ -682,7 +682,7 @@ PDFACompliance9=Disabled
 PDFVersion9=Default
 OutputFilePath10=C:\Users\conno\Documents\Clients\flatearth\NIH\GitHub\hardware\Projects\AB_Mic_Array\PCB\Project Outputs for Audio_Blade_Mic_Array\Variant_Name Variant_Revision\
 ReleaseManaged10=1
-OutputBasePath10=Project Outputs for Audio_Mini
+OutputBasePath10=Project Outputs for Audio_Research
 OutputPathMedia10==Variant_Name+' '+Variant_Revision
 OutputPathMediaValue10==Variant_Name+' '+Variant_Revision
 OutputPathOutputer10=[Output Type]
