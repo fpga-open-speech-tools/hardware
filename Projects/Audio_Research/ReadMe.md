@@ -1,4 +1,4 @@
-# [Audio Mini](https://fpga-open-speech-tools.github.io/audio_mini.html)
+# [Audio Research](https://fpga-open-speech-tools.github.io/audio_research.html)
 The Audio Mini is a mid-range audio daughter card that connects the audio inputs and output through the AD1939 to the Reflex Achilles Arria 10 SoC SoM. 
 
 ## Documentation
