@@ -1,4 +1,6 @@
-Record=TopLevelDocument|FileName=TopLevel.SchDoc
+Record=TopLevelDocument|FileName=Description+Errata.SchDoc
+Record=SheetSymbol|SourceDocument=Description+Errata.SchDoc|Designator=Connection Diagram|SchDesignator=Connection Diagram|FileName=TopLevel.SchDoc|SymbolType=Normal|RawFileName=TopLevel.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Description+Errata.SchDoc|Designator=Table of Contents|SchDesignator=Table of Contents|FileName=ToC.SchDoc|SymbolType=Normal|RawFileName=ToC.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=TopLevel.SchDoc|Designator=AUDIO CODEC|SchDesignator=AUDIO CODEC|FileName=Audio_Codec.SchDoc|SymbolType=Normal|RawFileName=Audio_Codec.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=TopLevel.SchDoc|Designator=BALANCED MINI XLR 1|SchDesignator=BALANCED MINI XLR 1|FileName=Audio_Output_XLR1.SchDoc|SymbolType=Normal|RawFileName=Audio_Output_XLR1.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=TopLevel.SchDoc|Designator=BALANCED MINI XLR 2|SchDesignator=BALANCED MINI XLR 2|FileName=Audio_Output_XLR2.SchDoc|SymbolType=Normal|RawFileName=Audio_Output_XLR2.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
