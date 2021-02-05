@@ -2,9 +2,9 @@
 The Audio Mini is a low cost audio daughter card that provides Line In and Headphone Out to the Cyclone V FPGA on the Terasic DE10-Nano. The PCB Folder contains the Altium Design Files.
 
 ## Documentation
- - [Schematic](https://frost-release.s3-us-west-2.amazonaws.com/hardware/audioresearch/Audio+Research+1P1+Schematic.PDF)
- - [PCB Documentation](https://frost-release.s3-us-west-2.amazonaws.com/hardware/audioresearch/Audio+Research+1P1+Schematic.PDF)
- - [PCBA Documentation](https://frost-release.s3-us-west-2.amazonaws.com/hardware/audioresearch/Audio+Research+1P1+Schematic.PDF)
+ - [Schematic](https://frost-release.s3-us-west-2.amazonaws.com/hardware/audiomini/Audio+Mini+1P1+PCBA+Documentation.PDF)
+ - [PCB Documentation](https://frost-release.s3-us-west-2.amazonaws.com/hardware/audiomini/Audio+Mini+1P1+Schematic.PDF)
+ - [PCBA Documentation](https://frost-release.s3-us-west-2.amazonaws.com/hardware/audiomini/Audio+Mini+1P1+Schematic.PDF)
 
 ## Folder Structure
     |-- Housing              # Contains the Housing Design Files for the Audio Mini
